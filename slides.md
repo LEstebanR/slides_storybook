@@ -16,10 +16,12 @@ h1 {
     overflow: hidden;
     background-color: #2ca2b4 0%;
     margin-top: 14px;
+    border: 1px solid black;
+    padding: 10px
 }
 </style>
 # Storybook
-
+<img href="">
 ---
 ---
 # ¿Qué es?
