@@ -1,22 +1,25 @@
 ---
-theme: default
-background: https://source.unsplash.com/collection/94734566/1920x1080
-class: 'text-center'
-highlighter: shiki
-lineNumbers: false
-css: unocss
-download: true
+theme: apple-basic
+layout: statement
+title: Storybook
 ---
 
 <style>
 h1 {
-  background: linear-gradient(to right, rgb(67, 124, 205), rgb(69, 214, 202));
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+    display: inline-block;
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    background-image: linear-gradient(90deg,#2ca2b4,#5598de 24%,#7f87ff 45%,#f65aad 76%,#ec3d43);
+    will-change: transform;
+    padding-top: .5px;
+    overflow: hidden;
+    background-color: #2ca2b4 0%;
+    margin-top: 14px;
 }
 </style>
-
 # Storybook
+
 ---
 ---
 # ¿Qué es?
