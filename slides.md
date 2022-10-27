@@ -16,11 +16,22 @@ h1 {
     overflow: hidden;
     background-color: #2ca2b4 0%;
     margin-top: 14px;
-    padding: 10px
+    padding: 10px;
+    
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+}
+img {
+  width: 150px;
 }
 </style>
 # Storybook
-<img href="">
+<div class=image-container>
+<img src="https://res.cloudinary.com/lesteban/image/upload/v1666829094/Logos/storybook-icon_xbqgkj.svg" >
+</div>
 ---
 ---
 # ¿Qué es?
