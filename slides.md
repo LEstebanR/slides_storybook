@@ -94,10 +94,17 @@ export default {
 
 export const Primary = () => <Button primary>Button</Button>;
 ```
-
-
-
 ---
 layout: statement
 ---
 <img class=img-ss src="https://storybook.js.org/ff519d6518900d4be0ce86bbf3655913/example-button-args.png" >
+
+---
+layout: bullets
+---
+# Ejemplos
+
+* [Demo](http://localhost:6006/?path=/story/example-introduction--page)
+* [Shopify](https://main--5d559397bae39100201eedc1.chromatic.com/?path=/story/all-components-datepicker--multi-month-ranged)
+* [GitLab](https://gitlab-org.gitlab.io/gitlab-ui/?path=/story/base-carousel--default&globals=backgrounds.value:!hex(333333))
+
